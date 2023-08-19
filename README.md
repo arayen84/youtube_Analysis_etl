@@ -17,17 +17,17 @@ Reporting: Construct a comprehensive dashboard for presenting insights and analy
 
 # Services used for this project
 - Amazon S3
-    Amazon S3 is an object storage service known for its manufacturing scalability, high data availability, robust security features, and exceptional performance.
+    It is an object storage service known for its manufacturing scalability, high data availability, robust security features, and exceptional performance.
 - AWS IAM
     Identity and Access Management (IAM) is a service designed to securely manage access to various AWS resources and services.
 - AWS Glue
-     AWS Glue is a serverless data integration service designed to simplify the process of discovering, preparing, and combining data for applications such as analytics, machine learning, and software development.
+     It is a serverless data integration service designed to simplify the process of discovering, preparing, and combining data for applications such as analytics, machine learning, and software development.
 - AWS Lambda
-     AWS Lambda is a serverless computing service that empowers developers to execute code without needing to provision or manage servers.
+     It is a serverless computing service that empowers developers to execute code without needing to provision or manage servers.
 - AWS Athena
-     Athena is an interactive query service designed for Amazon S3. It enables users to run queries directly on data stored in S3 without requiring data to be preloaded into a separate database.
+     It is an interactive query service designed for Amazon S3. It enables users to run queries directly on data stored in S3 without requiring data to be preloaded into a separate database.
 - QuickSight
-     Amazon QuickSight is a cloud-based, serverless, scalable, and machine learning-enhanced business intelligence (BI) service.
+     It is a cloud-based, serverless, scalable, and machine learning-enhanced business intelligence (BI) service.
 
 # Dataset Used
 https://www.kaggle.com/datasets/datasnaek/youtube-new
