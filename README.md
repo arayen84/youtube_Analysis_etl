@@ -16,17 +16,17 @@ Cloud: Opt for cloud services, specifically AWS in this instance, for hosting an
 Reporting: Construct a comprehensive dashboard for presenting insights and analysis.
 
 # Services used for this project
-- Amazon S3
+- Amazon S3 :
     It is an object storage service known for its manufacturing scalability, high data availability, robust security features, and exceptional performance.
-- AWS IAM
+- AWS IAM :
     Identity and Access Management (IAM) is a service designed to securely manage access to various AWS resources and services.
-- AWS Glue
+- AWS Glue :
      It is a serverless data integration service designed to simplify the process of discovering, preparing, and combining data for applications such as analytics, machine learning, and software development.
-- AWS Lambda
+- AWS Lambda :
      It is a serverless computing service that empowers developers to execute code without needing to provision or manage servers.
-- AWS Athena
+- AWS Athena :
      It is an interactive query service designed for Amazon S3. It enables users to run queries directly on data stored in S3 without requiring data to be preloaded into a separate database.
-- QuickSight
+- QuickSight :
      It is a cloud-based, serverless, scalable, and machine learning-enhanced business intelligence (BI) service.
 
 # Dataset Used
